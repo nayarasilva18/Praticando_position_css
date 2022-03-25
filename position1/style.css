@@ -1,0 +1,55 @@
+h2 {
+    text-align: center;
+    margin-top: 50px;
+  }
+
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+div.container {
+    height: 500px;
+    width: 500px;
+    background-color: blue;
+    position: relative;
+    left: calc(45vw - 200px);
+    top: calc(50vh - 200px);
+  }    
+ 
+div.box1 {
+    height: 400px;
+    width: 400px;
+    background-color: red;
+    position: absolute;
+    left: 50px;
+    top: 50px;
+  
+  }
+
+div.box2 {
+    height: 300px;
+    width: 300px;
+    background-color:black;
+    position: absolute;
+    left: 50px;
+    top: 50px;
+  }
+
+div.box3 {
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    position: absolute;
+    left: 50px;
+    top: 50px;
+  }    
+
+div.box4 {
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    position: absolute;
+    left: 50px;
+    top: 50px;
+  }    

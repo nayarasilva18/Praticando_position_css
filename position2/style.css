@@ -1,0 +1,73 @@
+h2 {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.quadrado-cinza {
+    height: 300px;
+    width: 500px;
+    background-color: gray;
+    position: relative;
+    left: calc(45vw - 200px);
+    top: calc(50vh - 200px);
+  }    
+
+  .quadrado {
+    height: 100px;
+    width: 100px;
+    margin: 1px;
+    background-color: black;
+    position: absolute;
+  }
+  
+  .quadrado {
+    height: 100px;
+    width: 100px;
+    margin: 1px;
+    background-color: black;
+    position: absolute;
+  }
+  
+  
+  .quadrado {
+    height: 100px;
+    width: 100px;
+    margin: 1px;
+    background-color: black;
+    position: absolute;
+  }
+
+  
+  .quadrado {
+    height: 100px;
+    width: 100px;
+    margin: 1px;
+    background-color: black;
+    position: absolute;
+  }
+
+  .left-top {
+    left: 0;
+    top: 0;
+  }
+  
+  .right-top {
+    right: 0;
+    top: 0;
+  }
+  
+  .left-bottom {
+    left: 0;
+    bottom: 0;
+  }
+
+  .right-bottom {
+    right: 0;
+    bottom: 0;
+  }
+
+ * {
+   padding: 0;
+   margin: 0;
+   border: 0;
+ }
